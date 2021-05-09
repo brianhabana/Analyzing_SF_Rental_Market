@@ -1,6 +1,4 @@
 # San Francisco Rental Properties Analysis
-![San Francisco Park Reading](Images/san-francisco-park-reading.jpg)
-*[San Francisco Park Reading](https://www.pexels.com/photo/park-san-francisco-reading-61109/) | [Free License](https://www.pexels.com/photo-license/)*
 
 ## Technologies
 
